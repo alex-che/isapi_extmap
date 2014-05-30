@@ -1,0 +1,11 @@
+LIBRARY	"isapi_extmap"
+
+EXPORTS
+
+; DllMain
+DllMain
+
+; ISAPI
+GetFilterVersion
+HttpFilterProc
+TerminateFilter

@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "isapi_extmap", "isapi_extmap\isapi_extmap.vcproj", "{DB18F2CC-0E71-4EFF-959D-DDE0AF6A31A0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tests", "tests\tests.vcproj", "{EFAB20CE-FC77-42EA-B980-DE5D4B30518C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Agizer6410_SDK (ARMV4I) = Debug|Agizer6410_SDK (ARMV4I)
+		Debug|Windows Mobile 5.0 Pocket PC SDK (ARMV4I) = Debug|Windows Mobile 5.0 Pocket PC SDK (ARMV4I)
+		Release|Agizer6410_SDK (ARMV4I) = Release|Agizer6410_SDK (ARMV4I)
+		Release|Windows Mobile 5.0 Pocket PC SDK (ARMV4I) = Release|Windows Mobile 5.0 Pocket PC SDK (ARMV4I)
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB18F2CC-0E71-4EFF-959D-DDE0AF6A31A0}.Debug|Agizer6410_SDK (ARMV4I).ActiveCfg = Debug|Agizer6410_SDK (ARMV4I)
+		{DB18F2CC-0E71-4EFF-959D-DDE0AF6A31A0}.Debug|Agizer6410_SDK (ARMV4I).Build.0 = Debug|Agizer6410_SDK (ARMV4I)
+		{DB18F2CC-0E71-4EFF-959D-DDE0AF6A31A0}.Debug|Agizer6410_SDK (ARMV4I).Deploy.0 = Debug|Agizer6410_SDK (ARMV4I)
+		{DB18F2CC-0E71-4EFF-959D-DDE0AF6A31A0}.Debug|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).ActiveCfg = Debug|Windows Mobile 5.0 Pocket PC SDK (ARMV4I)
+		{DB18F2CC-0E71-4EFF-959D-DDE0AF6A31A0}.Debug|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).Build.0 = Debug|Windows Mobile 5.0 Pocket PC SDK (ARMV4I)
+		{DB18F2CC-0E71-4EFF-959D-DDE0AF6A31A0}.Debug|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).Deploy.0 = Debug|Windows Mobile 5.0 Pocket PC SDK (ARMV4I)
+		{DB18F2CC-0E71-4EFF-959D-DDE0AF6A31A0}.Release|Agizer6410_SDK (ARMV4I).ActiveCfg = Release|Agizer6410_SDK (ARMV4I)
+		{DB18F2CC-0E71-4EFF-959D-DDE0AF6A31A0}.Release|Agizer6410_SDK (ARMV4I).Build.0 = Release|Agizer6410_SDK (ARMV4I)
+		{DB18F2CC-0E71-4EFF-959D-DDE0AF6A31A0}.Release|Agizer6410_SDK (ARMV4I).Deploy.0 = Release|Agizer6410_SDK (ARMV4I)
+		{DB18F2CC-0E71-4EFF-959D-DDE0AF6A31A0}.Release|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).ActiveCfg = Release|Windows Mobile 5.0 Pocket PC SDK (ARMV4I)
+		{DB18F2CC-0E71-4EFF-959D-DDE0AF6A31A0}.Release|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).Build.0 = Release|Windows Mobile 5.0 Pocket PC SDK (ARMV4I)
+		{DB18F2CC-0E71-4EFF-959D-DDE0AF6A31A0}.Release|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).Deploy.0 = Release|Windows Mobile 5.0 Pocket PC SDK (ARMV4I)
+		{EFAB20CE-FC77-42EA-B980-DE5D4B30518C}.Debug|Agizer6410_SDK (ARMV4I).ActiveCfg = Debug|Agizer6410_SDK (ARMV4I)
+		{EFAB20CE-FC77-42EA-B980-DE5D4B30518C}.Debug|Agizer6410_SDK (ARMV4I).Build.0 = Debug|Agizer6410_SDK (ARMV4I)
+		{EFAB20CE-FC77-42EA-B980-DE5D4B30518C}.Debug|Agizer6410_SDK (ARMV4I).Deploy.0 = Debug|Agizer6410_SDK (ARMV4I)
+		{EFAB20CE-FC77-42EA-B980-DE5D4B30518C}.Debug|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).ActiveCfg = Debug|Windows Mobile 5.0 Pocket PC SDK (ARMV4I)
+		{EFAB20CE-FC77-42EA-B980-DE5D4B30518C}.Debug|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).Build.0 = Debug|Windows Mobile 5.0 Pocket PC SDK (ARMV4I)
+		{EFAB20CE-FC77-42EA-B980-DE5D4B30518C}.Debug|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).Deploy.0 = Debug|Windows Mobile 5.0 Pocket PC SDK (ARMV4I)
+		{EFAB20CE-FC77-42EA-B980-DE5D4B30518C}.Release|Agizer6410_SDK (ARMV4I).ActiveCfg = Release|Agizer6410_SDK (ARMV4I)
+		{EFAB20CE-FC77-42EA-B980-DE5D4B30518C}.Release|Agizer6410_SDK (ARMV4I).Build.0 = Release|Agizer6410_SDK (ARMV4I)
+		{EFAB20CE-FC77-42EA-B980-DE5D4B30518C}.Release|Agizer6410_SDK (ARMV4I).Deploy.0 = Release|Agizer6410_SDK (ARMV4I)
+		{EFAB20CE-FC77-42EA-B980-DE5D4B30518C}.Release|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).ActiveCfg = Release|Windows Mobile 5.0 Pocket PC SDK (ARMV4I)
+		{EFAB20CE-FC77-42EA-B980-DE5D4B30518C}.Release|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).Build.0 = Release|Windows Mobile 5.0 Pocket PC SDK (ARMV4I)
+		{EFAB20CE-FC77-42EA-B980-DE5D4B30518C}.Release|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).Deploy.0 = Release|Windows Mobile 5.0 Pocket PC SDK (ARMV4I)
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
